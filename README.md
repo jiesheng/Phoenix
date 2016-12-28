@@ -1,2 +1,1 @@
-# Phoenix
-北辰－凤凰技术博客
+# Phoenix：凤凰
