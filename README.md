@@ -1,1 +1,2 @@
-# Phoenix：凤凰
+# Phoenix Blog
+My personal technology blog
